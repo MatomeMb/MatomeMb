@@ -1,17 +1,30 @@
 <div align="center">
 
-# Matome Mbowene
+# Hi, I'm Matome Mbowene 👋
 
 ### Software Engineer
 
-Building backend systems, AI applications, distributed software, and data platforms.
+Building reliable backend systems, AI applications, distributed software, and data platforms.
 
 **Johannesburg, South Africa**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-matomembowene.co.za-111827?style=for-the-badge)](https://matomembowene.co.za)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matome%20Mbowene-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matomembowene)
-[![Email](https://img.shields.io/badge/Email-matomepontso@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matomepontso@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MatomeMb-181717?style=for-the-badge&logo=github)](https://github.com/MatomeMb)
+<p>
+<a href="https://matomembowene.co.za">
+<img src="https://img.shields.io/badge/Portfolio-matomembowene.co.za-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/matomembowene">
+<img src="https://img.shields.io/badge/LinkedIn-Matome%20Mbowene-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:matomepontso@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-matomepontso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MatomeMb">
+<img src="https://img.shields.io/github/followers/MatomeMb?label=GitHub&style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </div>
 
@@ -21,7 +34,7 @@ Building backend systems, AI applications, distributed software, and data platfo
 
 I'm a Software Engineer with a background in **Computer Science & Computer Engineering** from the **University of Cape Town**.
 
-I design and build production-oriented software across:
+I design and build production-grade software with a focus on:
 
 - Backend Engineering
 - Artificial Intelligence
@@ -30,18 +43,18 @@ I design and build production-oriented software across:
 - Data Engineering
 - Automation
 
-I enjoy building systems that are reliable, maintainable, well-documented, and easy for other engineers to extend.
+I enjoy solving engineering problems where **correctness, scalability, security, and maintainability** matter more than complexity.
 
 ---
 
 # Current Focus
 
-- Building **Fairflow**, an open-source commerce platform
-- Backend architecture
-- AI-powered automation
-- Distributed systems
-- Developer tooling
-- Open-source software
+- 🚀 Building **Fairflow**
+- 🤖 AI-powered automation
+- ⚙️ Backend architecture
+- ☁️ Cloud-native systems
+- 📦 Open-source software
+- 📚 Technical writing
 
 ---
 
@@ -49,34 +62,43 @@ I enjoy building systems that are reliable, maintainable, well-documented, and e
 
 ## Fairflow
 
-**Open-source commerce infrastructure for South African merchants.**
+> **Open-source commerce infrastructure for South African merchants.**
 
-Fairflow combines:
+Fairflow is a production-oriented engineering platform built around modern backend architecture, secure payment processing, developer tooling, and open standards.
 
-- Merchant Portal (React + TypeScript)
-- Commerce API (Hono)
-- Rust validation engine
-- PostgreSQL + Supabase
-- Cloudflare R2 storage
-- Paystack payments
-- Sumsub merchant verification
-- Docker
+### Core Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,postgres,docker,rust"/>
+
+</p>
+
+Additional technologies:
+
+- Hono
+- Supabase
+- Paystack
+- Sumsub
+- Cloudflare R2
 - GitHub Actions
 - OpenAPI
-- ADR-driven architecture
+- ADR Architecture
 
 ### Highlights
 
-- Production-ready TypeScript monorepo
+- Production TypeScript monorepo
 - Multi-actor authentication
-- Secure payment processing
 - Validation-first architecture
-- Portable `.thing` artifacts
-- Production documentation
+- Secure payment workflows
+- Rust validation engine
+- OpenAPI-first API design
+- Comprehensive documentation
 - CI/CD
-- Comprehensive testing
+- Testing
+- Docker support
 
-**Links**
+### Links
 
 - 🌐 https://fairflow.co.za
 - 📦 https://github.com/MatomeMb/FairFlow
@@ -88,75 +110,82 @@ Fairflow combines:
 
 | Project | Description |
 |----------|-------------|
-| **Fairflow** | Open-source commerce platform |
+| **Fairflow** | Open-source commerce infrastructure |
 | **MyAdvisor** | Academic advising platform built at UCT |
-| **OCR Document Automation** | AI-assisted document processing pipeline |
-| **RAG Knowledge Assistant** | Retrieval-Augmented Generation search system |
-| **FashionMNIST Classifier** | PyTorch neural network pipeline |
-| **Peer-to-Peer Network** | Distributed file sharing implementation |
-| **STM32 Embedded Systems** | Bare-metal embedded software |
+| **OCR Automation Pipeline** | AI-powered document processing |
+| **RAG Knowledge Assistant** | Retrieval-Augmented Generation platform |
+| **FashionMNIST Classifier** | PyTorch neural network implementation |
+| **Peer-to-Peer Network** | Distributed networking project |
+| **STM32 Embedded Systems** | Bare-metal firmware development |
 
 ---
 
-# Tech Stack
+# Technology Stack
 
-### Languages
+## Languages
 
-![Languages](https://skillicons.dev/icons?i=python,java,ts,cpp,rust,bash)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,ts,cpp,rust,bash"/>
+</p>
 
-### Backend
+## Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,supabase)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,supabase"/>
+</p>
 
-### Frontend
+## Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind)
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
 
-### AI & Data
+## Infrastructure
 
-![AI](https://skillicons.dev/icons?i=pytorch)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,linux,githubactions"/>
+</p>
 
-**Also experienced with**
+## AI & Data
 
-- RAG
+Experienced with
+
+- PyTorch
 - FAISS
 - OpenCV
 - OCR
+- RAG
 - OpenAI APIs
 - Claude APIs
 - Pandas
 - NumPy
 - ETL Pipelines
 
-### Infrastructure
-
-![Infrastructure](https://skillicons.dev/icons?i=docker,gcp,linux,githubactions,cloudflare)
-
 ---
 
 # Experience
 
-### Software Engineer / CTO
+## Software Engineer / CTO
 
 **Fairflow**
 
-2025 – Present
+**2025 — Present**
 
-Building open-source commerce infrastructure focused on reliability, security, and developer experience.
+Building open-source commerce infrastructure with a focus on backend engineering, developer experience, and secure payment systems.
 
 ---
 
-### Systems Developer
+## Systems Developer
 
 **Science Learning Centre**
 
-University of Cape Town
+**University of Cape Town**
 
 Designed and implemented the **MyAdvisor** scheduling platform.
 
 ---
 
-### Education
+## Education
 
 **BSc Computer Science & Computer Engineering**
 
@@ -166,53 +195,61 @@ University of Cape Town
 
 # Engineering Principles
 
-- Reliability over complexity
-- Explicit architecture
-- Secure-by-default systems
-- Documentation as part of the product
-- Automation wherever possible
-- Maintainable software over clever software
+- Build for reliability
+- Keep systems simple
+- Security by default
+- Documentation is part of the product
+- Automate repetitive work
+- Optimise for maintainability
 
 ---
 
-# Open Source
-
-I believe open source should be:
-
-- Easy to run
-- Easy to understand
-- Well documented
-- Production oriented
-- Safe to contribute to
-
-Most of my current work is centred around **Fairflow**, where architecture, documentation, testing, security, and developer experience receive the same attention as application code.
-
----
-
-# GitHub
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatomeMb&theme=github-compact&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatomeMb&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatomeMb&layout=compact&hide_border=true)
-
----
+# GitHub Analytics
 
 <div align="center">
 
-> **"Good software should be simple to understand, predictable to operate, and easy to evolve."**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatomeMb&show_icons=true&rank_icon=github&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatomeMb&layout=compact&hide_border=true"/>
 
 </div>
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatomeMb&theme=github-compact&hide_border=true"/>
+
+<br>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MatomeMb/MatomeMb/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:matomepontso@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/matomembowene">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://matomembowene.co.za">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 <div align="center">
 
-### Let's build something great.
-
-📧 **matomepontso@gmail.com**
-
-🌐 **https://matomembowene.co.za**
+> *"Good software should be simple to understand, predictable to operate, and easy to evolve."*
 
 </div>
