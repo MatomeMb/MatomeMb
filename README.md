@@ -1,92 +1,228 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=A9B7C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Matome.;I+build+backend+systems.;I+build+AI+applications.;I+build+distributed+software." alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="mailto:matomepontso@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/matomembowene">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://matomembowene.co.za">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MatomeMb">
-    <img src="https://img.shields.io/github/followers/MatomeMb?style=for-the-badge&logo=github&color=181717"/>
-  </a>
+# Hi, I'm Matome Mbowene 👋
+
+### Software Engineer • Backend • AI • Distributed Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+backend+systems;Designing+AI-powered+applications;Developing+distributed+software;Always+learning+something+new." />
+
+<br>
+
+<a href="mailto:matomepontso@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/matomembowene">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://matomembowene.co.za">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MatomeMb">
+<img src="https://img.shields.io/github/followers/MatomeMb?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 ---
 
 # About Me
 
-I'm a software engineer with a strong interest in designing systems that are reliable, maintainable, and scalable.
+I'm a software engineer passionate about building systems that are reliable, scalable, and maintainable.
 
-My work spans backend engineering, AI-powered applications, distributed systems, cloud infrastructure, embedded software, and data engineering. I enjoy solving difficult engineering problems by focusing on simplicity, automation, and long-term maintainability rather than unnecessary complexity.
+My interests span backend engineering, artificial intelligence, cloud infrastructure, distributed systems, embedded software, and data engineering. I enjoy solving complex technical problems by combining clean architecture with practical engineering.
+
+Rather than chasing unnecessary complexity, I focus on writing software that is easy to understand, easy to operate, and easy to improve.
 
 ---
 
-# Engineering Philosophy
+# Engineering Principles
 
-> Good software should be simple to understand, predictable to operate, and easy to evolve.
+> **"Good software solves problems predictably and remains maintainable long after it's deployed."**
 
-I value engineering practices that emphasize:
+I aim to build software that is:
 
-- Designing maintainable systems
-- Writing clean, readable code
-- Building observable and testable software
-- Automating repetitive workflows
-- Choosing reliability over unnecessary complexity
+- Clean and maintainable
+- Reliable in production
+- Observable and testable
+- Performance-conscious
+- Simple before clever
+- Automated wherever possible
 
 ---
 
 # Current Focus
 
-- 🤖 AI-powered software
-- ⚙️ Backend architecture
-- ☁️ Cloud-native applications
-- 📊 Data engineering pipelines
-- 🌐 Distributed systems
-- 🏗️ Software architecture
+- 🤖 AI Applications & LLM Integration
+- ⚙️ Backend Engineering
+- ☁️ Cloud Infrastructure
+- 🌐 Distributed Systems
+- 📊 Data Engineering
+- 🏗️ Software Architecture
 
 ---
 
-# Tech Stack
+# Technology Stack
 
 ## Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,javascript,bash"/>
 </p>
 
-## Backend & Frontend
+## Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,express,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
-## Databases & Cloud
+## Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,gcp,linux"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
-## AI / Machine Learning
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,linux,git,githubactions"/>
+</p>
+
+## AI & Machine Learning
+
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch"/>
 </p>
-**Experience with:** Retrieval-Augmented Generation (RAG), FAISS, OpenAI APIs, Claude APIs, OCR, Tesseract, Pandas, NumPy
+
+**Experience with**
+
+- Retrieval-Augmented Generation (RAG)
+- FAISS Vector Search
+- OpenAI APIs
+- Claude APIs
+- Sentence Transformers
+- OCR
+- Tesseract
+- Pandas
+- NumPy
 
 ---
 
 # Featured Projects
 
-*   **[OCR Document Automation](https://github.com/MatomeMb/OCR-Pipeline)**: Intelligent document processing pipeline that extracts structured data from scanned PDFs using OCR and LLM-assisted validation logic.
-*   **[RAG Knowledge Assistant](https://github.com/MatomeMb/RAG-Agent)**: Retrieval-augmented generation assistant built with FAISS and Sentence Transformers for semantic search over custom knowledge bases.
-*   **[P2P File Sharing Network](https://github.com/MatomeMb/P2P-Network)**: Decentralized networking architecture implementing custom TCP/UDP transport protocols and SHA-256 integrity verification across untrusted nodes.
-*   **[MyAdvisor Platform](https://github.com/MatomeMb/MyAdvisor)**: Full-stack academic advising platform featuring REST APIs, authentication, and optimized relational database design.
-*   **[Autonomous Q-Learning Agent](https://github.com/MatomeMb/Q-Learning-Agent)**: Discrete Q-learning agent implemented from scratch using ε-greedy exploration to solve sequential decision-making tasks.
-*   **[Embedded STM32 Systems](https://github.com/MatomeMb/Embedded-STM32)**: Embedded software for STM32 microcontrollers with custom communication protocols and hardware integration.
+## OCR Document Automation
+
+**Python • GPT-4 • Tesseract OCR**
+
+Production-ready document processing pipeline capable of extracting structured information from scanned PDFs using OCR and LLM-assisted validation.
+
+**Highlights**
+
+- OCR processing
+- GPT validation
+- Confidence scoring
+- Audit logging
+- Modular architecture
 
 ---
+
+## RAG Knowledge Assistant
+
+**Python • FAISS • Streamlit**
+
+Retrieval-Augmented Generation system enabling semantic search across custom knowledge bases using vector embeddings and LLMs.
+
+**Highlights**
+
+- Semantic search
+- Vector databases
+- Context-aware retrieval
+- Retrieval telemetry
+- Modular pipeline
+
+---
+
+## MyAdvisor Platform
+
+**Java • Spring Boot • MySQL**
+
+Full-stack academic advising platform built using REST APIs and relational databases.
+
+**Highlights**
+
+- REST APIs
+- Authentication
+- SQL optimization
+- Database design
+- Reduced query latency by **40%**
+
+---
+
+## Distributed P2P File Sharing Network
+
+**C++ • Python**
+
+Peer-to-peer networking application implementing custom TCP/UDP communication and SHA-256 integrity verification.
+
+**Highlights**
+
+- Socket programming
+- Distributed architecture
+- Custom protocol implementation
+- Cryptographic integrity verification
+
+---
+
+## Autonomous Q-Learning Agent
+
+**Python**
+
+Reinforcement learning implementation built from scratch using Q-learning.
+
+**Highlights**
+
+- ε-greedy exploration
+- Reward optimization
+- Sequential decision-making
+
+---
+
+## Embedded STM32 Systems
+
+**C++ • STM32**
+
+Embedded software for STM32 microcontrollers featuring custom communication protocols and hardware integration.
+
+**Highlights**
+
+- Embedded systems
+- Memory-efficient processing
+- Hardware communication
+- Error detection
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatomeMb&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatomeMb&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
 
 <div align="center">
 
@@ -94,11 +230,17 @@ I value engineering practices that emphasize:
 
 </div>
 
+---
+
+# Contributions
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/MatomeMb/MatomeMb/output/github-contribution-grid-snake.svg"/>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -106,8 +248,14 @@ I value engineering practices that emphasize:
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <i>"Building software that is reliable, maintainable, and built to solve real problems."</i>
+
+### Let's Connect
+
+I'm always interested in discussing software engineering, AI, backend systems, distributed architectures, and opportunities to build impactful technology.
+
+*"Building software that is reliable, maintainable, and designed to solve real-world problems."*
+
 </div>
