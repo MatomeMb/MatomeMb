@@ -6,9 +6,8 @@
 
 Building reliable backend systems, AI applications, distributed software, and data platforms.
 
-**Johannesburg, South Africa**
-
 <p>
+
 <a href="https://matomembowene.co.za">
 <img src="https://img.shields.io/badge/Portfolio-matomembowene.co.za-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -18,13 +17,16 @@ Building reliable backend systems, AI applications, distributed software, and da
 </a>
 
 <a href="mailto:matomepontso@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-matomepontso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MatomeMb">
-<img src="https://img.shields.io/github/followers/MatomeMb?label=GitHub&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/MatomeMb?style=for-the-badge&logo=github&label=Followers"/>
 </a>
+
 </p>
+
+Johannesburg, South Africa
 
 </div>
 
@@ -34,27 +36,25 @@ Building reliable backend systems, AI applications, distributed software, and da
 
 I'm a Software Engineer with a background in **Computer Science & Computer Engineering** from the **University of Cape Town**.
 
-I design and build production-grade software with a focus on:
+I build production software across:
 
 - Backend Engineering
 - Artificial Intelligence
 - Distributed Systems
 - Cloud Infrastructure
 - Data Engineering
-- Automation
+- Developer Tooling
 
-I enjoy solving engineering problems where **correctness, scalability, security, and maintainability** matter more than complexity.
+I enjoy designing software that is secure, maintainable, well documented, and easy for other engineers to extend.
 
 ---
 
-# Current Focus
+# Currently
 
-- 🚀 Building **Fairflow**
-- 🤖 AI-powered automation
-- ⚙️ Backend architecture
-- ☁️ Cloud-native systems
-- 📦 Open-source software
-- 📚 Technical writing
+- 🚀 Maintaining **Fairflow** as an open-source commerce platform
+- ⚙️ Building backend and distributed systems
+- 🤖 Exploring practical AI applications
+- 📖 Writing technical documentation and engineering case studies
 
 ---
 
@@ -62,47 +62,33 @@ I enjoy solving engineering problems where **correctness, scalability, security,
 
 ## Fairflow
 
-> **Open-source commerce infrastructure for South African merchants.**
-
-Fairflow is a production-oriented engineering platform built around modern backend architecture, secure payment processing, developer tooling, and open standards.
-
-### Core Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,postgres,docker,rust"/>
-
-</p>
-
-Additional technologies:
-
-- Hono
-- Supabase
-- Paystack
-- Sumsub
-- Cloudflare R2
-- GitHub Actions
-- OpenAPI
-- ADR Architecture
+**Production-grade open-source commerce infrastructure for South African merchants.**
 
 ### Highlights
 
-- Production TypeScript monorepo
-- Multi-actor authentication
-- Validation-first architecture
-- Secure payment workflows
+- TypeScript monorepo
+- React merchant platform
+- Hono backend API
 - Rust validation engine
-- OpenAPI-first API design
-- Comprehensive documentation
-- CI/CD
-- Testing
-- Docker support
+- Paystack payments
+- Sumsub merchant verification
+- PostgreSQL + Supabase
+- Cloudflare R2
+- Docker
+- GitHub Actions
+- OpenAPI
+- ADR-driven architecture
 
-### Links
+**Tech Stack**
 
-- 🌐 https://fairflow.co.za
-- 📦 https://github.com/MatomeMb/FairFlow
-- 📖 https://matomembowene.co.za/projects/fairflow
+`TypeScript` • `React` • `Hono` • `Rust` • `PostgreSQL` • `Docker`
+
+| Resource | Link |
+|----------|------|
+| 🌐 Website | https://fairflow.co.za |
+| 📦 Repository | https://github.com/MatomeMb/FairFlow |
+| 📖 Documentation | https://github.com/MatomeMb/FairFlow/tree/main/docs |
+| 🏗 Portfolio Case Study | https://matomembowene.co.za/projects/fairflow |
 
 ---
 
@@ -110,97 +96,56 @@ Additional technologies:
 
 | Project | Description |
 |----------|-------------|
-| **Fairflow** | Open-source commerce infrastructure |
-| **MyAdvisor** | Academic advising platform built at UCT |
-| **OCR Automation Pipeline** | AI-powered document processing |
+| **Fairflow** | Open-source commerce platform |
+| **MyAdvisor** | Academic scheduling platform developed at UCT |
+| **OCR Automation Pipeline** | AI-assisted document processing |
 | **RAG Knowledge Assistant** | Retrieval-Augmented Generation platform |
 | **FashionMNIST Classifier** | PyTorch neural network implementation |
 | **Peer-to-Peer Network** | Distributed networking project |
-| **STM32 Embedded Systems** | Bare-metal firmware development |
-
----
-
-# Technology Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,cpp,rust,bash"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,supabase"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-</p>
-
-## Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,gcp,linux,githubactions"/>
-</p>
-
-## AI & Data
-
-Experienced with
-
-- PyTorch
-- FAISS
-- OpenCV
-- OCR
-- RAG
-- OpenAI APIs
-- Claude APIs
-- Pandas
-- NumPy
-- ETL Pipelines
+| **STM32 Embedded Systems** | Bare-metal embedded firmware |
 
 ---
 
 # Experience
 
-## Software Engineer / CTO
-
-**Fairflow**
-
-**2025 — Present**
-
-Building open-source commerce infrastructure with a focus on backend engineering, developer experience, and secure payment systems.
-
----
-
-## Systems Developer
-
-**Science Learning Centre**
-
-**University of Cape Town**
-
-Designed and implemented the **MyAdvisor** scheduling platform.
+| Position | Period |
+|----------|--------|
+| **Software Engineer / CTO — Fairflow** | **Jan 2026 – Apr 2026** |
+| **Systems Developer — Science Learning Centre (UCT)** | **Feb 2025 – Nov 2025** |
+| **Google Cloud Career Launchpad** | **2024** |
+| **Dell Young Leaders Programme** | **2022 – 2025** |
 
 ---
 
-## Education
+# Core Technologies
 
-**BSc Computer Science & Computer Engineering**
+### Languages
 
-University of Cape Town
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,ts,cpp,rust,bash"/>
+</p>
 
----
+### Backend
 
-# Engineering Principles
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql,supabase"/>
+</p>
 
-- Build for reliability
-- Keep systems simple
-- Security by default
-- Documentation is part of the product
-- Automate repetitive work
-- Optimise for maintainability
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,linux,githubactions"/>
+</p>
+
+### Also Experienced With
+
+PyTorch • FAISS • OpenCV • OCR • RAG • Pandas • NumPy • ETL • REST APIs • Cloudflare R2 • Paystack • Sumsub
 
 ---
 
@@ -208,7 +153,7 @@ University of Cape Town
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatomeMb&show_icons=true&rank_icon=github&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatomeMb&show_icons=true&hide_border=true&rank_icon=github"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatomeMb&layout=compact&hide_border=true"/>
 
@@ -220,36 +165,36 @@ University of Cape Town
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/MatomeMb/MatomeMb/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
 
 ---
 
 # Connect
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:matomepontso@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://matomembowene.co.za">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/matomembowene">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://matomembowene.co.za">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:matomepontso@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-> *"Good software should be simple to understand, predictable to operate, and easy to evolve."*
+> **"Good software should be simple to understand, predictable to operate, and easy to evolve."**
 
 </div>
