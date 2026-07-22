@@ -110,7 +110,7 @@ I enjoy designing software that is secure, maintainable, well documented, and ea
 
 | Position | Period |
 |----------|--------|
-| **Software Engineer / CTO — Fairflow** | **Jan 2026 – Apr 2026** |
+| **Software Engineer  — Fairflow** | **Jan 2026 – Apr 2026** |
 | **Systems Developer — Science Learning Centre (UCT)** | **Feb 2025 – Nov 2025** |
 | **Google Cloud Career Launchpad** | **2024** |
 | **Dell Young Leaders Programme** | **2022 – 2025** |
